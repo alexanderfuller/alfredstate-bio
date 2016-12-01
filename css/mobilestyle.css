@@ -1,0 +1,90 @@
+@media only screen and (min-width : 150px) and (max-width : 780px){
+
+	#mobile-demo li{
+   margin:0;
+  float:left;
+  padding:0;
+  width:100%;
+
+  }
+.brand-logo{
+	font-size:14px !Important;
+}
+  #mobile-demo li a{
+  padding:50px 0;
+  margin:0;
+  font-size:24px;
+    }
+
+	.brand-logo a{
+		float:left;
+		width:100%;
+	}
+	nav img{
+		float:left;
+	}
+	body{
+		overflow-x:hidden;
+	}
+
+	.card-panel{
+		width:100%;
+		float:left;
+	}
+.slides{
+	height:300px;
+}
+.slider{
+	height:300px;
+}
+	.row{
+		float:left;
+		width:100%;
+	}
+
+	.bar{
+		visibility:hidden;
+	}
+
+	.row{
+		float:left;
+		width:100%;
+	}
+	.card-panel{
+		float:left;
+		width:100%;
+		height:700px;
+	}
+	button{float:left; width:100%; margin-top:200px;}
+	.waves-effect.waves-light.classes{
+		background:darkblue;
+		 color:gold;
+		text-align:center;
+		 width:100%;
+	margin:0;
+		 margin-top:30px;
+	}
+}
+@media only screen and (min-width : 781px) and (max-width : 1300px){
+
+	.tiny.material-icons.left{
+
+	}
+.right.hide-on-med-and-down {
+	display:block !Important;
+	overflow:hidden;
+	height:160px;
+}
+.right.hide-on-med-and-down > li {
+	display:block !Important;
+	float:left;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+.right.hide-on-med-and-down > li > a {
+	display:block !Important;
+	float:left;
+overflow:hidden;
+}
+}

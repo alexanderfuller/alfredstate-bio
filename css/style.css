@@ -1,0 +1,384 @@
+.nav-wrapper ul li a{
+	color:black;
+}
+.fimg{
+	float:left;
+}
+.webinfo{
+	float:left;
+}
+footer{
+	z-index:1;
+}
+footer p{
+	margin-top:200px;
+}
+.nav wrapper{
+  background:blue;
+  opacity:0.7;
+}
+
+nav ul {
+  margin:0 auto;
+  width:23%;
+}
+
+form{
+	width:50%;
+	margin:12px auto;
+
+}
+h3{
+	text-align:center;
+	margin-top:50px;
+	color:orange;
+}
+label{
+	color:darkblue;
+	font-size:25px;
+}
+
+
+footer li a{
+color:darkblue;
+font-size:25px;
+margin-top:60px;
+}
+footer p {
+color:darkblue;
+font-size:20px;}
+footer {
+height:250px;
+background:gold;}
+
+input[type = "text"], input[type = "password"]{
+	font-size:30px;
+}
+button:hover{
+	opacity:0.6;
+}
+
+h4{
+	width:100%;
+	text-align:center;
+	margin:0;
+	padding:10px 0;
+
+}
+h4:hover{
+	background:yellow;
+}
+
+h3{
+	text-align:center;
+	color:orange;
+}
+b{
+	color:darkblue;
+}
+
+ul li a{
+padding:0 50px;
+font-size:21px;
+margin-top:90px;
+font-weight:bold;
+}
+ul li a:hover{
+background: #00004d;
+}
+nav{
+height:143px;}
+
+body{
+font-family:agency fb, sans-serif, arial}
+
+
+h3{
+color:gold;
+  position: relative;
+
+  z-index:1;
+
+}
+
+
+.bar{
+  height: 4em;
+  padding-top: 2em;
+  opacity: 0.4;
+  background: black;
+  margin-top: -69px;
+  z-index:0;
+  }
+  header{
+	  font-family:agency fb, sans-serif, arial;
+  }
+  .breadcrumb{
+	  color:gold;
+	  font-size:20px;
+  }
+
+
+	h4:hover{
+		background:yellow;
+	}
+
+
+	b{
+		color:darkblue;
+	}
+
+	table{
+		font-size:25px;
+	}
+	 td, th{
+	text-align:center;
+	}
+
+	.breadcrumb{
+		font-size:20px;
+		color:gold;
+	}
+	h4{
+		width:100%;
+		text-align:center;
+		margin:0;
+		padding:10px 0;
+	}
+
+	.options:hover{
+		background:yellow;
+	}
+	.card-panel{
+	width:46%;
+	float:left;
+	height:auto;
+	margin:2%;
+	background:gold;
+	position:relative;
+	}
+
+	form{
+		width:50%;
+		margin:12px auto;
+	}
+
+	label{
+		color:darkblue;
+		font-size:25px;
+	}
+
+	input[type = "text"], input[type = "password"]{
+		font-size:30px;
+	}
+	.fail > h4{
+		color:red;
+		text-align:center;
+	}
+	h5{
+		color:green;
+		text-align:center;
+		font-size:35px;
+	}
+
+	form{
+		width:50%;
+		margin:12px auto;
+
+	}
+	h3{
+		text-align:center;
+		margin-top:50px;
+		color:#ffc107;
+	}
+
+
+	button:hover{
+		opacity:0.6;
+	}
+
+	nav{
+	height:143px;}
+
+	#dropdown1 li a, #dropdown2 li a, #dropdown3 li a, #dropdown4 li a{
+	margin:0;
+	font-size:19px;
+	background:gold;
+
+	}
+	#dropdown1 li a:hover, #dropdown2 li a:hover, #dropdown3 li a:hover, #dropdown4 li a:hover{
+	background:yellow;}
+
+
+	#dropdown {
+	margin-top:30px;}
+
+	body{
+	font-family:agency fb, sans-serif, arial}
+
+
+	h3{
+	color:orange;
+	  position: relative;
+
+	  z-index:1;
+
+	}
+
+	   header{
+		  font-family:agency fb, sans-serif, arial;
+	  }
+
+	  #showClass{
+	  margin:0 auto;
+	  width:70%;
+	  font-size:34px;}
+
+	  button{
+	  margin:0 auto;
+	  width:50%;}
+
+	  .card-panel {
+	  margin:0 auto;
+	  width:100%;
+	  background:gold;
+	  }
+
+	  .row{
+	  width:50%;
+	  }
+
+	  button:hover{
+	  opacity:0.6;}
+
+	label{
+		color:darkblue;
+		font-size:30px;
+		font-weight:bold;
+	}
+
+	table{
+	font-size:20px;
+	}
+
+
+	ul li a{
+	padding:0 50px;
+	font-size:21px;
+	margin-top:90px;
+	font-weight:bold;
+	}
+	ul li a:hover{
+	background: #00004d;
+	}
+
+	nav{
+	height:143px;}
+
+
+	body{
+	font-family:agency fb, sans-serif, arial}
+
+
+	h3{
+	color:orange;
+	  position: relative;
+	  z-index:1;
+	}
+
+	   header{
+		  font-family:agency fb, sans-serif, arial;
+	  }
+
+	  #showClass{
+	  margin:0 auto;
+	  width:70%;
+	  font-size:34px;}
+
+	  button{
+	  margin:0 auto;
+	  width:50%;}
+
+	  .card-panel {
+	  margin:0 auto;
+	  width:100%;
+	 background:gold;
+	  }
+
+	  .row{
+	  width:50%;
+	  }
+
+	  button:hover{
+	  opacity:0.6;}
+
+	label{
+		color:darkblue;
+		font-size:30px;
+		font-weight:bold;
+	}
+
+
+	table{
+		font-size:25px;
+	}
+	 td, th{
+	text-align:center;
+	}
+
+	h3{
+		color:orange;
+		text-align:center;
+	}
+
+	.breadcrumb{
+		font-size:20px;
+		color:gold;
+	}
+	.btn.waves-effect.waves-light.next{
+		background:darkblue;
+		 color:gold;
+		  width:49.5%;
+			 font-size:22px;
+			 position:absolute;
+			 bottom:0;
+			 right:50.5%;
+	}
+
+	.btn.waves-effect.waves-light.next2{
+		background:darkblue;
+		 color:gold;
+		  width:49.5%;
+			 font-size:22px;
+			 position:absolute;
+			 bottom:0;
+		left:50.5%;
+	}
+	.waves-effect.waves-light.classes{
+		background:darkblue;
+		 color:gold;
+		 padding:10px;
+		 width:15%;
+		 margin-left:42%;
+		 margin-right:42%;
+		 margin-top:30px;
+	}
+.right.hide-on-med-and-down > li{
+	width:19%;
+	padding:0;
+	margin:0;
+}
+
+.right.hide-on-med-and-down > li > a{
+	font-size:14px;
+	width:100%;
+		color:gold;
+}
+.tiny{
+	width:20px;
+}
+.material-icons{
+	width:16px;
+	margin:0;
+padding:0;
+}

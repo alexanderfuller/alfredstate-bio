@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/xmlstyle.css"?>
+
+<users>
+
+<user>
+<firstname>Alexander</firstname>
+<middlename>James</middlename>
+<lastname>Fuller</lastname>
+<dob>9/15/1995</dob>
+
+  <street> </street>
+<city>Staten Island</city>
+<state>New York</state>
+<occupation>Student</occupation>
+<college>Alfred State College</college>
+<major>Web Development</major>
+<contact>
+<phone>718-815-8723</phone>
+
+<email>alexfull@gmail.com</email>
+</contact>
+</user>
+
+</users>

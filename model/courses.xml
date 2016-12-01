@@ -1,0 +1,82 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<courses>
+
+<course>
+  <coursename>Intro to IT</coursename>
+<professor>Alec Berenbuam</professor>
+<semester>Fall 2013</semester>
+<coverage>Switches, Word, Excel, Access</coverage>
+</course>
+
+<course>
+  <coursename>Intro to Programming IT</coursename>
+<professor>David Law</professor>
+<semester>Spring 2014</semester>
+<coverage>Visual Studio, C#</coverage>
+</course>
+
+<course>
+  <coursename>Microcomputer Systems</coursename>
+<professor>Robin Torpey</professor>
+<semester>Spring 2014</semester>
+<coverage>Windows 7, Computer Hardware</coverage>
+</course>
+
+<course>
+  <coursename>Intro to Databases</coursename>
+<professor>David Law</professor>
+<semester>Spring 2014</semester>
+<coverage>mySQL, Access</coverage>
+</course>
+
+<course>
+  <coursename>Intro to Web Page Development</coursename>
+<professor>Evan Enke</professor>
+<semester>Fall 2014</semester>
+<coverage>HTML, CSS, Javascript, Bootstrap</coverage>
+</course>
+
+<course>
+  <coursename>Database Concepts</coursename>
+<professor>Alec Berenbuam</professor>
+<semester>Fall 2014</semester>
+<coverage>Oracle</coverage>
+</course>
+
+<course>
+  <coursename>Visual Programming</coursename>
+<professor>David Law</professor>
+<semester>Spring 2015</semester>
+<coverage>Visual Studio, C#</coverage>
+</course>
+
+<course>
+  <coursename>Web Programming One</coursename>
+<professor>John Burke</professor>
+<semester>Fall 2015</semester>
+<coverage>Javascript, Jquery</coverage>
+</course>
+
+<course>
+  <coursename>Object Oriented Programming</coursename>
+<professor>John Burke</professor>
+<semester>Fall 2015</semester>
+<coverage>MVC, C#, ASP.NET</coverage>
+</course>
+
+<course>
+  <coursename>Web Programming Two</coursename>
+<professor>Evan Enke</professor>
+<semester>Spring 2016</semester>
+<coverage>PHP, XML, AJAX</coverage>
+</course>
+
+<course>
+  <coursename>Project Manegment</coursename>
+<professor>John Burke</professor>
+<semester>Spring 2016</semester>
+<coverage>Agile Teamwork</coverage>
+</course>
+
+</courses>

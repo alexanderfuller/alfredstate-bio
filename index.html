@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Alex Fuller</title>
+	<!-- Compiled and minified CSS -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
+<link href = "css/style.css" rel = "stylesheet" type = "text/css">
+<link href = "css/mobilestyle.css" rel = "stylesheet" type = "text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<ul id="dropdown1" class="dropdown-content" style = "height:100px; margin-top:143px;">
+  <li><a href="controller/alex.php">About Me (Databinded Version)</a></li>
+  <li><a href="model/alex.xml" target = "blank">About Me (XML Version)</a></li>
+</ul>
+
+
+
+
+<ul id="dropdown3" class="dropdown-content" style = "height:100px; margin-top:143px;">
+  <li><a href="controller/careers1.php">Web Development Career Paths</a></li>
+    <li><a href="controller/managecareers.php">Manage Web Development Career Paths</a></li>
+	    <li><a href="views/future.php">Future Employment</a></li>
+</ul>
+
+<ul id="dropdown4" class="dropdown-content" style = "height:100px; margin-top:143px;">
+  <li><a href="controller/login.php">Login</a></li>
+  <li><a href="controller/register.php">Register</a></li>
+
+</ul>
+<nav style = "background:gold;">
+
+  <div class="nav-wrapper">
+
+    <a href="#!" class="brand-logo" style = "color:#000099; background:gold; width:100%; ">
+			  <img src = "images/astate.png" style = "float:left; margin:0; height:100px">
+				<b>Alfred State Student Bio:</b> &nbsp Alex Fuller</a>
+	  <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons" style = "color:darkblue">menu</i></a>
+    <ul class="right hide-on-med-and-down" style = "width:100%; float:left; background:#000099; ">
+
+      <!-- Dropdown Trigger -->
+
+	 <li><a style = "color:gold;" href="index.html"> <i class="tiny material-icons left">home</i>Home </a></li>
+      <li><a style = "color:gold" class="dropdown-button" href="#!" data-activates="dropdown1"><i class="tiny material-icons left">face</i>About Me<i class="material-icons right">arrow_drop_down</i></a></li>
+        <li><a style = "color:gold;" href="controller/courses.php"> <i class="tiny material-icons left">import_contacts</i>My Courses </a></li>
+	  <li><a style = "color:gold" class="dropdown-button" href="#!" data-activates="dropdown3"><i class="tiny material-icons left">work</i> Web Development<i class="material-icons right">arrow_drop_down</i></a></li>
+	  <li><a style = "color:gold" class="dropdown-button" href="#!" data-activates="dropdown4"><i class="tiny material-icons left">perm_identity</i>Account<i class="material-icons right">arrow_drop_down</i></a></li>
+    </ul>
+	<ul class="side-nav" id="mobile-demo">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="controller/alex.php">About Me</a></li>
+        <li><a href="controller/courses.php">My Courses</a></li>
+        <li><a href="controller/careers1.php">Web Dev</a></li>
+
+
+      </ul>
+  </div>
+</nav>
+   <div class="slider" style = "background:#000099;">
+    <ul class="slides">
+      <li>
+        <img src="images/one.jpg"> <!-- random image -->
+        <div class="caption center-align">
+
+          <h3>My name is Alex and welcome to my Alfred State Student Bio Site!</h3>
+		  <div class = "bar"></div>
+
+
+        </div>
+      </li>
+      <li>
+        <img src="images/two.jpg"> <!-- random image -->
+        <div class="caption left-align">
+          <h3>Here you can find courses I've taken at Alfred State</h3>
+            <div class = "bar"></div>
+        </div>
+      </li>
+      <li>
+        <img src="images/three.jpg"> <!-- random image -->
+        <div class="caption right-align">
+          <h3>And Information about myself and my Major</h3>
+            <div class = "bar"></div>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+      <footer>
+	  <br>
+<center><p>Copyright 2016 Alfred State: Alexander Fuller</p></center>
+		</footer>
+
+
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+  <script src="js/slider.js"></script>
+</body>
+</html>
